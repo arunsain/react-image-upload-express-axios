@@ -1,0 +1,6 @@
+backend package
+npm init -y
+npm i express express-fileupload mysql2 sequelize cors
+
+frontend package
+npm i react-router-dom axios bulman
